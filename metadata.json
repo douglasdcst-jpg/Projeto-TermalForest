@@ -1,0 +1,6 @@
+{
+  "name": "PyroThermal Vision - Detecção de Focos Térmicos",
+  "description": "Sistema de Visão Computacional, Sensoriamento Remoto e IA para detecção de anomalias térmicas e focos de calor em florestas densas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
